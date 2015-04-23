@@ -15,4 +15,12 @@
         android:max="6"
         android:progress="0"
         android:indeterminate="false" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Galerias de arte"
+        android:id="@+id/galeria"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 </RelativeLayout>
