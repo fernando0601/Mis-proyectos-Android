@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="azul_1" type="color">#FF0099CC</item>
+    <item name="verde_1" type="color">#FF669900</item>
+    <item name="naranja_1" type="color">#FFFF8800</item>
+    <item name="rojo_1" type="color">#FFCC0000</item>
+    <item name="gris_1" type="color">#66666666</item>
+
+    <item name="azul_2" type="color">#3333CC</item>
+    <item name="verde_2" type="color">#5566AA00</item>
+    <item name="naranja_2" type="color">#AAAC6633</item>
+    <item name="rojo_2" type="color">#54DA3123</item>
+    <item name="gris_2" type="color">#EEEEEEEE</item>
+
+    <item name="azul_3" type="color">#ABC123</item>
+    <item name="verde_3" type="color">#123456</item>
+    <item name="naranja_3" type="color">#123CCC</item>
+    <item name="rojo_3" type="color">#EEEEEE</item>
+    <item name="gris_3" type="color">#FFFFFF</item>
+
+    <item name="azul_4" type="color">#FFF111</item>
+    <item name="verde_4" type="color">#777812</item>
+    <item name="naranja_4" type="color">#777777</item>
+    <item name="rojo_4" type="color">#DAC312</item>
+    <item name="gris_4" type="color">#12DE43</item>
+
+    <item name="azul_5" type="color">#666666</item>
+    <item name="verde_5" type="color">#819DEC</item>
+    <item name="naranja_5" type="color">#ABC321</item>
+    <item name="rojo_5" type="color">#98DC32</item>
+    <item name="gris_5" type="color">#718DE1</item>
+
+    <item name="azul_6" type="color">#7A2D21</item>
+    <item name="verde_6" type="color">#999999</item>
+    <item name="naranja_6" type="color">#12DC54</item>
+    <item name="rojo_6" type="color">#5DA323</item>
+    <item name="gris_6" type="color">#EEAA01</item>
+
+    <item name="azul_7" type="color">#9812DD</item>
+    <item name="verde_7" type="color">#DDDDDD</item>
+    <item name="naranja_7" type="color">#F617DF</item>
+    <item name="rojo_7" type="color">#91D82D</item>
+    <item name="gris_7" type="color">#AAAAAA</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/azul_1</item>
+        <item>@color/verde_1</item>
+        <item>@color/naranja_1</item>
+        <item>@color/rojo_1</item>
+        <item>@color/gris_1</item>
+        <item>@color/azul_2</item>
+        <item>@color/verde_2</item>
+        <item>@color/naranja_2</item>
+        <item>@color/rojo_2</item>
+        <item>@color/gris_2</item>
+        <item>@color/azul_3</item>
+        <item>@color/verde_3</item>
+        <item>@color/naranja_3</item>
+        <item>@color/rojo_3</item>
+        <item>@color/gris_3</item>
+        <item>@color/azul_4</item>
+        <item>@color/verde_4</item>
+        <item>@color/naranja_4</item>
+        <item>@color/rojo_4</item>
+        <item>@color/gris_4</item>
+        <item>@color/azul_5</item>
+        <item>@color/verde_5</item>
+        <item>@color/naranja_5</item>
+        <item>@color/rojo_5</item>
+        <item>@color/gris_5</item>
+        <item>@color/azul_6</item>
+        <item>@color/verde_6</item>
+        <item>@color/naranja_6</item>
+        <item>@color/rojo_6</item>
+        <item>@color/gris_6</item>
+        <item>@color/azul_7</item>
+        <item>@color/verde_7</item>
+        <item>@color/naranja_7</item>
+        <item>@color/rojo_7</item>
+        <item>@color/gris_7</item>
+    </integer-array>
+
+</resources> 

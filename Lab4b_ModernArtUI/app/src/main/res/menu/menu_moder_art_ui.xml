@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".ModerArtUI">
+    <item android:id="@+id/more_info" android:title="Mas informacion"
+        android:orderInCategory="100" android:showAsAction="never" />
+</menu>
