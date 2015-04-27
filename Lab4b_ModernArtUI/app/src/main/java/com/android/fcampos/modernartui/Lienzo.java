@@ -9,6 +9,7 @@ import android.view.View;
 
 /**
  * Created by Fernando Campos Sandoval on 23/04/2015.
+ * This class draws the rectangles simulating paints
  */
 class Lienzo extends View {
 
